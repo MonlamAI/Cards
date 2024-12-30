@@ -21,7 +21,7 @@ assignees: ''
 **STEP 2 TEST** To verify that, We will
 -
 
-**རིམ་པ་གསུམ་པ།** ང་ཚོས་ཚད་འཇལ་རྒྱུ་ནི།
+**རིམ་པ་གསུམ་པ། འཇལ་བྱེད།** ང་ཚོས་ཚད་འཇལ་རྒྱུ་ནི།
 **STEP 3 METRIC** And measure
 -
 
