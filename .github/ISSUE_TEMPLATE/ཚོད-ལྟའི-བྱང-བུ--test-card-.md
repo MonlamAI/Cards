@@ -1,16 +1,9 @@
 ---
-name: 'ཚོད་ལྟའི་བྱང་བུ། Test Card '
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
+ཚོད་ལྟའི་མིང་། Test name: 'ཚོད་ལྟ་ཡིན།'
+དུས་བཅད། Deadline: '03/01/2025'
+ཚོད་ལྟ་བྱེད་མཁན། Assigned to: 'drongbulobsang@gmail.com'
+དུས་ཡུན། Duration: 'བདུན་ཕྲག་གཉིས།'
 ---
-
-**ཚོད་ལྟའི་མིང་། Test name:**
-**དུས་བཅད། Deadline:**
-**ཚོད་ལྟ་བྱེད་མཁན། Assigned to:**
-**དུས་ཡུན། Duration:**
 
 **རིམ་པ་དང་པོ། ཚོད་དཔག** ང་ཚོད་ཚོད་དཔག་བྱས་པ་ནི།
 **STEP 1 HYPOTHESIS** We believe that
