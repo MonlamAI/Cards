@@ -17,7 +17,7 @@ assignees: ''
 **STEP 1 HYPOTHESIS** We believe that
 -
 
-**རིམ་པ་གཉིས་པ། ཚོད་ལྟ།** ང་ཚོས་རྒྱུས་ལོན་བྱས་པ་ནི།
+**རིམ་པ་གཉིས་པ། རྒྱུས་ལོན།** ང་ཚོས་རྒྱུས་ལོན་བྱས་པ་ནི།
 **STEP 2 OBSERVATION** We observed
 -
 
