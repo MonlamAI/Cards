@@ -1,5 +1,5 @@
 ---
-name: Experiment Card1
+name: Experiment Card
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
