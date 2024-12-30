@@ -1,11 +1,4 @@
----
-name: Test Card 01
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
+**ཚོད་ལྟའི་བྱང་བུ། Test Card**
 
 | ཚོད་ལྟའི་མིང་། Test name: | XXXXX | ཚོད་ལྟའི་མིང་། Test name | XXXXX |
 |----------|----------|----------|----------|
