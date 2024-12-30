@@ -1,4 +1,13 @@
 ---
+name: 'ཚོད་ལྟའི་བྱང་བུ། Test Card '
+about: sfsdfasdfsdf
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+---
 ཚོད་ལྟའི་མིང་། Test name: 'ཚོད་ལྟ་ཡིན།'
 དུས་བཅད། Deadline: '03/01/2025'
 ཚོད་ལྟ་བྱེད་མཁན། Assigned to: 'drongbulobsang@gmail.com'
