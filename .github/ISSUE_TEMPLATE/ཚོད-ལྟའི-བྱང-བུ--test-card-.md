@@ -22,4 +22,4 @@ assignees: ''
 **STEP 3 METRIC** And measure
 
 **རིམ་པ་བཞི་པ། ཚད་འཛིན།** བདེན་པ་ར་སྤྲོད་ཀྱི་ཚད་འཛིན་ས་ནི།
-**STEP 4 CRITERIA** We are Right if
+**STEP 4 CRITERIA** We are right if
