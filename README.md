@@ -1,2 +1,2 @@
-# admin
+# Projects
 Monlam AI project Admin
