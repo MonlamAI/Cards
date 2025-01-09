@@ -11,5 +11,5 @@ jobs:
       - name: Add Issue to Project
         uses: actions/add-to-project@v1
         with:
-          project-url: ${{ secrets.PROJECT_URL }}
+          project-url: ${{ secrets.PROJECT_URL }} 
           github-token: ${{ secrets.GITHUB_TOKEN }}
