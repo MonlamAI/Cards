@@ -1,15 +1,15 @@
-name: Add to Project
+name: Auto Add Issue to Project
+
 on:
   issues:
-    types:
-      - opened
+    types: [opened]
+
 jobs:
   add-to-project:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Add Issue to Project
+      - name: Add issue to project
         uses: actions/add-to-project@v1
         with:
-          project-url: ${{ secrets.PROJECT_URL }} 
+          project: https://github.com/orgs/MonlamAI/projects/97/views/1
           github-token: ${{ secrets.GITHUB_TOKEN }}
