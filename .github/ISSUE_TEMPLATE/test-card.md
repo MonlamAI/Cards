@@ -1,12 +1,3 @@
----
-name: Test Card
-about: Describe this issue template's purpose here.
-title: ''
-labels: Test Card
-assignees: ''
-
----
-
 ## Write Test Title Here
 *Test owner*: @_
 
