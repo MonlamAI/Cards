@@ -24,10 +24,10 @@ assignees: ''
 
 ## METRIC
 *And measure:*
-- [ ] Metric 1
-- [ ] Metric 2
+1. Metric 1
+2. Metric 2
 
 ## CRITERIA
 *We are right if:*
-- [ ] Success criteria 1
-- [ ] Success criteria 2
+1. Success criteria 1
+2. Success criteria 2
